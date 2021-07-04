@@ -1,5 +1,5 @@
 program words;
-const n=20; m=10; {n - number of words, m = number of letters}
+const n=40; m=20; {n - number of words, m = number of letters}
 
 type TString=string[m];
 
